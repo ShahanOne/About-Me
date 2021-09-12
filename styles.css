@@ -1,0 +1,24 @@
+/******************************TAG Selectors*******************************/
+  img {border-radius: 50%;}
+body {
+  background-color: #D4ECDD;
+}
+h1 {color: #00A19D }
+h2 {
+  color: #3B185F;
+}
+h3 {color: #38A3A5}
+hr { border-color: green;
+  border-style: none;
+  border-top-style: dotted;
+
+  border-width: 8px;
+    width: 10%;
+
+}
+/* ********************************CLASS Selectors***************************/
+.Shahan {color: #57CC99 ;}
+.Hero {font-size: 50px;}
+
+/******************************* ID Selectors *******************************/
+#damnyou {color: maroon;}
